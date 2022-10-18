@@ -1,11 +1,13 @@
 # Bibliometric Accountability In Russian Science Policy: Should The Developing Countries Use Publication Metrics For Research Funding Decisions?
 
-Elena Chechik^(1), Katerina Guba^{2}, Alexey Zheleznov^{3}
-1. echechik@eu.spb.ru
+1. Elena Chechik
+echechik@eu.spb.ru
 European University at St. Petersburg, Center for Institutional Analysis of Science & Education, Gagarinskaya st. 6/1 A, St. Petersburg (Russia), ORCID 0000-0002-2277-0490, https://twitter.com/hellche
-2. kguba@eu.spb.ru
+2. Katerina Guba
+kguba@eu.spb.ru
 European University at St. Petersburg, Center for Institutional Analysis of Science & Education, Gagarinskaya st. 6/1 A, St. Petersburg (Russia), ORCID 0000-0002-4677-5050, https://twitter.com/in_cog_nikto
-3. azheleznov@eu.spb.ru (for correspondence)
+3. Alexey Zheleznov (for correspondence)
+azheleznov@eu.spb.ru 
 European University at St. Petersburg, Center for Institutional Analysis of Science & Education, Gagarinskaya st. 6/1 A, St. Petersburg (Russia), ORCID 0000-0002-5381-4599, https://twitter.com/geoexp, https://www.linkedin.com/in/geoexp/
 
 ## Abstract
