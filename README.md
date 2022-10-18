@@ -12,6 +12,7 @@ European University at St. Petersburg, Center for Institutional Analysis of Scie
 
 Should the countries with serious concerns about research quality rely that strongly on scientometric indicators in the resource allocation, given the potential for questionable research practices? We study whether adding metrics to grant evaluation procedure impacts the allocation of funds to researchers with a better publication record. To analyze the impact of publication-based metrics, we compared two waves of grant competitions: before and after the policy raised the publication threshold for principal investigators. Our results demonstrate a relatively positive impact of bibliometric indicators on the selection of grant recipients. However, we did not find evidence that better selection of grant recipients yielded better publication records during grant implementation. We conclude that relying on metrics in the evaluation of grant proposals might be a useful additional tool in academic systems where professional expertise is corrupted.
 
-The paper was prepared with the support of the Russian Science Foundation under Grant No 21-78-10102. 
+
+**The paper was prepared with the support of the Russian Science Foundation under Grant No 21-78-10102.** 
 
 The authors report there are no competing interests to declare.
